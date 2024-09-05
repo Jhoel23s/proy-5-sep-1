@@ -1,0 +1,115 @@
+*
+{
+    margin: 0px;
+    background-color:aqua;
+}
+.sombrero1
+{
+    background-color: blue;
+    width: 100px;    height: 35px;
+    position: absolute;
+    top: 70px; left: 325px;
+}
+.sombrero2
+{
+    background-color: blue;
+    width: 200px; height: 30px;
+    position: absolute;
+    top: 90px; left: 275px;
+    border-radius: 60%;
+}
+.cabeza
+{
+    background-color: aliceblue;
+    width: 150px;   height: 150px;
+    position: relative;
+    top: 100px; left: 300px;
+    border-radius: 100%;
+}
+.ojo1
+{
+    background-color: cornflowerblue;
+    width: 20px;    height: 20px;
+    position: absolute;
+    top: 45px;  left: 40px;
+    border-radius: 100%;
+}
+.ojo2
+{
+    background-color: cornflowerblue;
+    width: 20px;    height: 20px;
+    position: absolute;
+    top: 45px;  right: 40px;
+    border-radius: 100%; 
+}
+.nariz
+{
+    background-color: orangered;
+    width: 50px; height: 20px;
+    position: absolute;
+    top: 75px; left: 75px;
+}
+.boca
+{
+    background-color: orangered;
+    width: 55px;    height: 5px;
+    position: absolute;
+    top: 110px;  left: 50px;
+}
+.cuerpo1
+{
+    background-color: aliceblue;
+    width: 200px; height: 200px;
+    border-radius: 100%;
+    position: relative;
+    top: 100px; left: 275px;
+}
+.brazo1
+{
+    background-color:brown;
+    width: 20px;    height: 100px;
+    position: relative;
+    left: 260px;    bottom: 155px;
+    transform: rotate(135deg);
+}
+.brazo2
+{
+    background-color: brown;
+    width: 20px;    height: 100px;
+    position: relative;
+    left: 470px;    bottom: 255px;
+    transform: rotate(45deg);
+}
+
+.boton1
+{
+    background-color: blueviolet;
+    width: 20px; height: 20px;
+    border-radius: 100%;
+    position: absolute;
+    top: 20px; left: 90px;
+}
+.boton2
+{
+    background-color: blueviolet;
+    width: 20px; height: 20px;
+    border-radius: 100%;
+    position: absolute;
+    top: 60px; left: 90px;
+}
+.boton3
+{
+    background-color: blueviolet;
+    width: 20px; height: 20px;
+    border-radius: 100%;
+    position: absolute;
+    top: 100px; left: 90px;
+}
+.cuerpo2
+{
+    background-color: aliceblue;
+    width: 250px;   height: 250px;
+    border-radius: 100%;
+    position: fixed;
+    top: 450px; left: 250px;
+}
